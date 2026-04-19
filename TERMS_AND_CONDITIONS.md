@@ -10,7 +10,7 @@ Blender MCP is a free, open-source project maintained by Siddharth Ahuja ("I," "
 
 By using Blender MCP, you agree to these terms. If you do not agree, please do not use the software.
 
-> **Note (fork):** This is a personal fork for learning purposes. Telemetry is disabled by default in this fork.
+> **Note (fork):** This is a personal fork for learning purposes. Telemetry is disabled by default in this fork. The terms below reflect the upstream project's policy and are kept here for reference only.
 
 ---
 
@@ -98,12 +98,4 @@ Blender MCP is not intended for users under 16. I do not knowingly collect data 
 
 ## 9. International Users
 
-Your data may be stored and processed in any country. By using Blender MCP, you consent to international data transfers.
-
----
-
-## 10. Intellectual Property
-
-### Your Content
-
-You retain 
+Your data may be stored and processed in any country. By using Blender M
