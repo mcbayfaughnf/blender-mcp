@@ -53,6 +53,8 @@ The system consists of two main components:
 ## Installation
 
 > **Personal note:** I tested this on Blender 4.2 and Python 3.11 — works great. The uv install step is easy to skip but don't, it'll cause confusing errors later. Also confirmed working on Ubuntu 22.04 in addition to Mac/Windows.
+>
+> **Tip:** If Claude Desktop doesn't detect the MCP server after setup, try fully quitting and relaunching it (not just closing the window). This caught me off guard the first time.
 
 ### Prerequisites
 
@@ -75,4 +77,5 @@ $userPath = [Environment]::GetEnvironmentVariable("Path", "User")
 [Environment]::SetEnvironmentVariable("Path", "$userPath;$localBin", "User")
 ```
 
-Otherwise installation instructions are on their website: [Install uv](https://docs.astral.sh/uv/getting-s
+Otherwise installation instructions are
+```
